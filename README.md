@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React , next
 
-- 👨‍💻 All of my projects are available at [Github.com/reza-sdo](Github.com/reza-sdo)
+- 👨‍💻 All of my projects are available at [https://github.com/reza-sdo](https://github.com/reza-sdo)
 
 - 💬 Ask me about Html , css , sass , python , react , JavaScript
 
