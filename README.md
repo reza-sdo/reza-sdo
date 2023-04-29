@@ -13,7 +13,7 @@
 
 - 📫 How to reach me rezammdzd0@gmail.com
 
-- 📄 Know about my experiences [Github.com/reza-sdo/resume](Github.com/reza-sdo/resume)
+- 📄 Know about my experiences [https://github.com/reza-sdo/resume](https://github.com/reza-sdo/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
